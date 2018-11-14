@@ -1,5 +1,5 @@
-# Arabic
-A C++ library for Arabic text manipulation. It is the counter part of [PyArabic](https://pypi.org/project/PyArabic/).
+# quran
+A C++ counterpart for [PyQuran](https://github.com/hci-lab/pyquran). See [this](https://hci-lab.github.io/PyQuran-Private) for more details.
 
 ## Features
 ...
