@@ -5,7 +5,7 @@ A C++ counterpart for [PyQuran](https://github.com/hci-lab/pyquran). See [this](
 ...
 
 ### Compiling `main.cpp` for testing.
-- You change the current directory to `build`.
+- Change the current directory to `build`.
 - Then `cmake ..` to generate the `Makefile`
 - then `make`.
 
